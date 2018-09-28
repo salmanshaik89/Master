@@ -1,0 +1,8 @@
+Hibernate
+Peristence-process-storing-mapping data-long time
+  " store->stored-perminently
+"   data->data of stores
+ " operations->insert,updtae,create,
+" logic->logic performs operations
+" s/w:>
+features of hibernate:
